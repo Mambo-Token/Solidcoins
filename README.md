@@ -14,21 +14,23 @@ https://mambo.li/solidcoins/
 .....
 
 Solidcoins deployed on Kaspa KRC-20:
-Probably the most prestige Solidcoin:
+
+$Gold: Probably the most prestige Solidcoin:
+
 The first real digital $GOLD:
+
 $Gold intial price about 1/1000 of 1 ounce of Gold at 2500 USD at 0.17 Kas (September 2024).
 = 0.06 $Gold per mint (1 Kas)
+
 1 $Gold = 16.6 Kas
-Sales price max 5-25% lower than mint price. There should be more tokens in circulation by sales then by minting, ideally to support the price.
-We strongly reccomend to buy $Gold on Marketplaces or here, to long term support the value of the coins.
-The minting price serves as a ceiling, to maintain $Gold in these proportion to Kas.
-The future will show whether physical Gold or Kas will perform better , $Gold will follow Kas.
+Read more about $Gold here:
+https://github.com/Mambo-Token/MamboLaunchPad/blob/main/Projects/Gold-Solidcoin.md
 ...
 $Bonds: very heavy Solidcoins - making payments of big amounts easy countable, serves as a long term store of bigger capital.
 1 $Bonds = 1000 Kas price orientation
 More Infos folow.
 ...-.-.-.
-$XMAS: the ideal gift for Christmas.
+$XMAS: the ideal gift for Christmas. $XMAS is a memecoin with similarities to solidcoins, specially because it's scarce.
 1 $XMAS = 200 Kas
 ..-.-.--.-
 $CAFE : initial price oriented to the price of 1 Expresso standing on a coffee bar in Rome and Paris.
