@@ -28,7 +28,7 @@ Thanks to the most advance POW GhoastDag technology of Kaspa, it is finally poss
 Kaspa is the end of centralized control over money.
 And Solidcoins are using this huge advantage and make payments even more convenient with unique tickers.
 
-## $CAFE helps in mass adobption of the RWA (real world assets) use of cryptocurrency
+## $CAFE helps for mass adoption of the use of cryptocurrency in RWA (real world application/asset).
 in the most primordial way: as currency for payment.
 
 ## Solidcoin concept - not a stablecoin and not a meme coin  
