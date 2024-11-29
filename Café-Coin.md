@@ -75,6 +75,10 @@ There is no closed presale and no team preallocation.
 Wait, wait, writing this - no I am giving me 1000 $Cafe as reward for creating this wounderful solidcoin and conception.  
 Nothing more. Thats almost nothing. May I?  
 I like meritocracy.  
+Everything is sold publicly and anybody can buy it. 
+The offered price will normally be between 6 -8.5 kas, mostly between 7 - 8.3 kas.
+So try to catch to randomly best offers. 
+Everybody can sell their $Cafe too, that will create a floor price.  
 
 ### $CAFE is offered on marketplaces like:  
 KSPR: https://t.me/kspr_home_bot?start=PS8u4w  
