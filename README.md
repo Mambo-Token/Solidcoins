@@ -33,12 +33,13 @@ making payments of big amounts easy countable, serves as a long term store of bi
 More Infos folow.
 
 ...-.-.-.
-$XMAS: the ideal gift for Christmas. 
-$XMAS is a memecoin with similarities to solidcoins, specially because it's scarce.
+
+$XMAS: the ideal gift for Christmas.  
+$XMAS is a memecoin with similarities to solidcoins, specially because it's scarce.  
 
 1 $XMAS = 50-200 Kas
 
-..-.-.--.-
+..-.-.--.-  
 $CAFE : initial price oriented to the price of 1 Expresso standing on a coffee bar in Rome and Paris.
 Its a hommage to the biggest coffee cuture countries Italy and Fance.
 
@@ -46,12 +47,12 @@ Its a hommage to the biggest coffee cuture countries Italy and Fance.
 
 1 $Cafe = 6-8.5 kas on sales.
 
-.-.-.--.-.-.-.-.
+.-.-.--.-.-.-.-.  
 $China - in preparation
 
 $Brasil - in preparation
 
-Both can replace their currency partially.
+Both can replace their currency partially.  
 .....
 
 $Franc - the successor of the first solidcoin of Mambo back in 2021
@@ -60,7 +61,7 @@ details in prep.
 -.-.-.-.
   
 Very heavy and rare collectible solidcoins & memecoins:
-.....
+.....  
 $Eagles , $Eagle $King $Whales $Rock $XMAS and $Yeshua 
 
 are a mixture between memecoins, rare collectibles and heavy solidoins.
@@ -69,7 +70,7 @@ are a mixture between memecoins, rare collectibles and heavy solidoins.
 Mambo considers them as the best currencies toghether with $Gold on KRC-20.
 Very exciting tokens.
 
-.-.--
+.-.--  
 $Coins - a lightwight solidcoin for massive retail micropayments.
 
 DO NOT MINT $COINS:
