@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/CafeLogo.png" width="340" height="340">
 
 # $CAFE Solidcoin on Kaspa KRC-20 (Kasplex protocol)
-(whitepaper vers. 1.0, 11/2024)
+(whitepaper v. 1.0, 11/2024)
 
 ## Why and what is $CAFE ?
 
