@@ -44,7 +44,7 @@ If the marketprice of $Café falls below the treasury value, it can be bought up
 ## Why you should buy $Cafe and not mint
 1. Normally you should get a better price on marketplaces than to mint
 2. If you buy $Cafe the funds from the $Cafe sales wallet will flow into the $Cafe community treasury wallet.
-3. Buying means you fund the treasury or your coin with collateral. You help maintain the value of you investment.
+3. Buying means you fund the treasury of the coin you invest in with collateral. You help maintain the value of your investment.
 4. Funds from sales can be used for liquidity pools.
 5. We will not make ugly fund raising campaigns for liquidity - instead the market does it simply by demand and supply.
 
