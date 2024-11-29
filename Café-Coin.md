@@ -9,9 +9,9 @@ The initial price of $CAFE is oriented on the price of 1 Expresso
 standing on a coffee bar in Rome and Paris.  
 Its a hommage to the biggest coffee cuture countries Italy and Fance.  
 
-You get 0.12 Cafe per mint.
-1 $Cafe = 8.33 mints  (cost about 8.5 $Kas)
-1 $Cafe on sales cost about 6 - 8.5 $Kas  
+You get 0.12 Cafe per mint.  
+1 $Cafe = 8.33 mints  (costs about 8.5 $Kas)  
+1 $Cafe on sales cost about 6 - 8.5 $Kas   
 1 Espresso on a bar costs about 1 - 1.5€  
 The price of Kas at deployment of $CAFE was about 0.16 usd or 0.168€.  
 8.33 Kas x 0.168 € = 1.40 € = 1 $CAFE.  
