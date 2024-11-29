@@ -31,7 +31,7 @@ And Solidcoins are using this huge advantage and make payments even more conveni
 ## $CAFE helps for mass adoption of the use of cryptocurrency in RWA (real world application/asset).
 in the most primordial way: as currency for payment.
 
-We reward with **2000 $Cafe** to the first coffee bar / restaurant to accept $Cafe as payment - if they can show minimum 50 payments made.  
+We reward **2000 $Cafe** to the first coffee bar / restaurant to accept $Cafe as payment - if they can show minimum 50 payments made.  
 
 ## Solidcoin concept - not a stablecoin and not a meme coin  
 $Café is a solidcoin and explicitly not a stablecoin and not a memecoin.
