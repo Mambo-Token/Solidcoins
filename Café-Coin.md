@@ -103,13 +103,13 @@ The cex vultures are licking the asses of the totalitarian anti freedom anti cry
 We do not plan to list $cafe on any cex, and they will not want to have pure decentralized money - because they are cex, not dex.  
 And if they would want ot offer $Cafe for trading, they will have to buy it (or mint it) like anybody else.  
 
-## Socials:
-Join: https://t.me/MamboToken
-Follow: https://X.com/MamboCoins
-This website here:
-https://github.com/Mambo-Token/Solidcoins/edit/main/Caf%C3%A9-Coin.md
-https://Mambo.Li
-Youtube @Mambo-Coins
+## Socials:  
+Join: https://t.me/MamboToken  
+Follow: https://X.com/MamboCoins  
+This website here:  
+https://github.com/Mambo-Token/Solidcoins/edit/main/Caf%C3%A9-Coin.md  
+https://Mambo.Li  
+Youtube @Mambo-Coins  
 
 
 
