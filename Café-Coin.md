@@ -65,23 +65,24 @@ The minting helps although for decentralized micro spreading of the coin.
 The huge balance maybe usefull to pair with other solidcoins in future liquidity pools on dexes.
 
 ## Important: Circulating supply
-Only tokens minted and sold can be considere to be in circulation.
-The most part maybe never used - but we do not plan to burn it, since it can be used for heavy low volatile liquidity pools.  
-Marketcap calculation with total supply make no sense. Only with circulating supply.
-Formula: circulatng supply x 8.22 kas should be the cap, marketprice may be lower.
+Only tokens minted and sold can be considered to be in circulation.
+The most part may never be used - but we do not plan to burn it, since it can be used for heavy low volatile liquidity pools.  
+Marketcap calculation with total supply makes no sense. Only with circulating supply.
+Formula: circulatng supply x 8.33 kas should be the cap, marketprice may be lower and should be used.
 
 ## Sales and allocations:
 There is no closed presale and no team preallocation.  
 Wait, wait, writing this - no I am giving me 1000 $Cafe as reward for creating this wounderful solidcoin and conception.  
-Nothing more. Thats almost nothing.
+Nothing more. Thats almost nothing. May I?  
+I like meritocracy.  
 
-### $CAFE is offered on avaiable marketplaces like:  
+### $CAFE is offered on marketplaces like:  
 KSPR: https://t.me/kspr_home_bot?start=PS8u4w  
 Kaspiano: https://kaspiano.com/?ref=1gZf4X3J  
 Kroc: https://t.me/delta_krocbot?start=b7b6k59ox2v  
 Kroc Bot Marketplace: t.me/kroc_otc_bot  
-swap.guac.fyi 
-New marketplaces, swaps and dexes.
+https://swap.guac.fyi  
+New marketplaces, swaps and dexes.  
 
 ## Transparency:
 Reserves wallet (not in circulation):  
