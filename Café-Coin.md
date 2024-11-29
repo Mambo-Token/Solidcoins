@@ -31,6 +31,8 @@ And Solidcoins are using this huge advantage and make payments even more conveni
 ## $CAFE helps for mass adoption of the use of cryptocurrency in RWA (real world application/asset).
 in the most primordial way: as currency for payment.
 
+We reward with **2000 $Cafe** to the first coffee bar / restaurant to accept $Cafe as payment - if they can show minimum 50 payments made.  
+
 ## Solidcoin concept - not a stablecoin and not a meme coin  
 $Café is a solidcoin and explicitly not a stablecoin and not a memecoin.
 It's designed to cushion the volatility of $Kas in relation to fiat currencies.
@@ -99,9 +101,12 @@ $Cafe treasury wallet (liquidity pools reserves):
 kaspa:qqjsjpc52j5tsmn9gl5hfk58x2x0zmmzynxaxca8v4wlzah3l7amz84w0ytvt  
 
 ## $Roadmap - outlook
-We aim to bring people into real decentralized world, not the hypocritical pseudo web3 / Cex controlled and big brother (monitored by gov tyrants).w
-We encourage coffee bars and restaurants and online shops and fund raising platforms (like buy me a coffee) to accept $Cafe as payment.  
-This would heavily help for mass adoption in RWA - real world application.  
+We aim to bring people into real decentralized world, not the hypocritical pseudo web3 / Cex controlled and monitored by gov tyrants.  
+
+### We encourage coffee bars and restaurants, online shops and fund raising platforms (like buy me a coffee) to accept $Cafe as payment.  
+
+This would heavily help for mass adoption in RWA - real world application: money, payment.
+
 Help spread the news of this next era money. Use it, accept it, pay with it share our posts.
 
 The cex vultures are licking the asses of the totalitarian anti freedom anti crypto govs and fascist Wef.  
