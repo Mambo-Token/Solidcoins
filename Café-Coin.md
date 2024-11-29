@@ -57,8 +57,8 @@ Mints possible: 83.33 Billion
 
 This makes clear that $Cafe was not designed to be outminted. 
 The minting serves as a price cap - and we do not expect it to be outminted within next decade. 
-It would need more Kas than there are Kas in existenc -  
-that means the amount of the whole Kas supply would have to circulate about 3x through $Cafe mining. :-)  
+It would need more Kas than there are Kas in existence -  
+that means the amount of the whole Kas supply would have to circulate about 3x through $Cafe minting. :-)  
 Very unlikely or impossible. haha.  
 The minting helps although for decentralized micro spreading of the coin.  
 
