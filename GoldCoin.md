@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/Projects/images/DigitalGold001.jpg" width="340" height="340">
 
-**$Gold: - the most prestige Solidcoin:**
+# $Gold: - the most prestige Solidcoin
 
-The first real digital $GOLD:
+## The first real digital $GOLD:
 
 $Gold intial price about 1/1000 of 1 ounce of Gold at 2500 USD at 0.17 Kas (September 2024).
-= 0.06 $Gold per mint (1 Kas)
-
+= 0.06 $Gold per mint (1 Kas)  
 1 $Gold = 16.6 Kas
 
 The sales price is normally maximum 5-25% lower than the mint price. 
@@ -26,7 +25,7 @@ The future will show whether physical Gold or Kas will perform better , $Gold wi
 
 The general solidcoin whitepaper is in preparation, as is the $Gold coin whitepaper.
 
-Tokenomics of $Gold:
+## Tokenomics of $Gold:
 
 Total supply: 50,000,000,000 <br>
 Premint 50%: 25,000,000,000 <br>
@@ -43,9 +42,10 @@ $Gold is globally the first real digital Gold, thanks to Kaspa - which himself s
 
 It will be interesting to watch how the price of $Gold (and Kaspa) in comparision to physical Gold will deveop over time.<br>
 We assume that Kaspa (and $Gold) will surpass in price development of Gold.
+...  
+This paper will be updated later on with more fundamentals. Read the introduction text of the solidcoin topic and the $Cafe paper.  
 
-
-Why Solidcoins? <br>
+## Why Solidcoins? <br>
 Those coins aim to teplace completely the need of stablecoins with their problems with anti crypto authorities and regulations.
 Solidcoins are not stablecoins, but collectible memecoins held in a certain price range in relation to Kas, the ultimate decentralized cryptocurrency.
 Solidcoins makes payment fun, fast, decentralized, easy offer a kine of investment backed partially by Kas (and other solidcoins or mememcoins)
