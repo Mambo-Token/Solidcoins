@@ -83,7 +83,7 @@ But you can expect Franc to trade in a range of 0-20% deviation from the sells p
 Such dipps can be good occasions to buy it up for speculators.  
 The free market will autoamatically move the price towards sales price.
 
-## Circultiong Supply or Total Supply
+## Circulating Supply or Total Supply
 It is a big mistake to make marketcap calculations with total supply or $Franc.
 Only sold $Franc should be calculated, not even those put on sales, for having an good measure of the real marketcap.
 That means the real circulating supply (not counting pending offers from us).
@@ -97,6 +97,18 @@ This will not happen immediatly, giving speculators time to react earlier than $
 - inability of the Mambo managment team to react in time.
 - other not mentioned risks, unknown factors.
 
+## Transpareny - Franc managment accounts:  
+Franc treasury (collateral) account:  
+kaspa:qr33qw5lrgn43sadacuevayj75aa0ucph7m8pmser6u5vrjakuwnq0edzg0xr  
+Franc LP's account:  
+kaspa:qrj392w7rf9fnz8mdv4mz7ulwjgy48q06qt0pvghc90lhj6dkwnfxsj8esavv  
+Franc sales account:  
+kaspa:qpvw5phlrcpa84q8x028rtvdxkj0xyg5fs7hkj6wjvxxxlc2gj2kz32mc9095  
+Franc reserves:  
+kaspa:qzj5a7p3qhg2yqu7e4y63833dn9htdm60c987g5u5uhnjmr3jteuvq0w9grvm  
+Franc tg bot sales wallet:  
+kaspa:qq743pt3casruz3v9npn5ad6wjyvvpjue39jfhnvxjaw2n3p890jv286tv6sm  
+
 
 ## The story behind $Franc  
 ## The original Price of $Franc  
@@ -104,7 +116,7 @@ Back in June 2021, when $Franc chocolate stablecoin was launched, it was soft pe
 100g standard Toblerone cost 2.20 CHF back then. To make it more practical and similar to CHF, we decided to soft peg it on:   
 0.4545 g Toblerone. 2.20 x 0.4545 = 1.- CHF. That means, at the time of launch, it was exactly 1 $Franc = 1 CHF.  
 ### Massive inflation although in Switzerland:  
-In those 3 years Toblerone price went up 2x first to 2.70 and now 2.85. This was a huge leap from 2.20 to 2.70, caused by the covid scam coup d'Etat insane economical and physical self destruction of economy and civil life, with a lot of fiat money printing to finance their satanic globalist murder agenda.  
+In those 3 years Toblerone price went up 2x first to 2.70 and now 2.85. This was a huge leap from 2.20 to 2.70, caused by the covid scam coup d'Etat insane economical and physical self destruction of economy and civil life, with a lot of fiat money printing to finance their satanic globalist murder agenda. Example of CHF fiat money abuse: financing the protection of WEF criminals in Davos.  
 This price increase of Toblerone is a good proof of how much real inflation felt in the last years.  
 The New Version of $Franc Solidcoin on #Kaspa is no longer soft pegged on the Toblerone. But we will continue to track the price of it, to compare if our anual inflation protection sales price increase beats the chocolate price developement or not.  
 Link to retail sales price of a well known discounter:  
