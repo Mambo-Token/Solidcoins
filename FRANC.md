@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/franc440r.png" width="340" height="340">  
-Current ref. sell price: 1.00 CHF  
+Current reference sell price:  
+1$ FRANC = 1CHF / 0.8808 USD / 0.1495 Kas = 7.59 Kas  
 
 # $FRANC Solidcoin
 ## $FRANC solidcoin on Kaspa KRC-20 is the successor of $Franc "chocolate stablecoin" launched by Mambo back in 2021.
@@ -43,36 +44,38 @@ At launch of $Franc Solidcoin in December 2024 100g Toblerone costs 2.85 CHF.
 ### Price of $Franc:  
 At Launch: 1 $FRANC Solidcoin = 1 CHF  
 Sell price increases yerly 12%, montly 1%.  
-We will take an moving average price of $Kas 3-6 month, to calculated the sells price in Kas.  
-We will take an approximate Forex exchange price USD-CHF to adapt the price. 
-The price is adapted weekly. In cases of heavy volatility we may adapte the price as it occurs.  
+to calculate the sells price in Kas  
+we will take an moving average price of $Kas 90 days (90d ma),   
+We will take an approximate Forex exchange price USD-CHF (21d ma). 
+The price is adapted weekly. In cases of heavy volatility we may adapt the price as it occurs.  
 Example:  
 Dec 3, 2024:  
-$Kas 90d MA = 0.1495 USD.  
+$Kas 90d MA (moving average) = 0.1495 USD.  
 Forex: 21d MA: USDCHF 0.8808  
-**1$ FRANC = 1CHF / 0.8808 / 0.1495 = 7.59 Kas**  
-Formula: 1 $Franc = 1CHF + 1% increase per month / CHFUSD / KASUSD  
-Reference sell price increas table:
-December 2024: 1.00 CHF  
-January 2025: 1.01 CHF  
+**1$ FRANC = 1CHF / 0.8808 USD / 0.1495 Kas = 7.59 Kas**  
+Formula: 1 $Franc = 1CHF + 1% increase per month / USDCHF / KASUSD  
+Reference sell price increase table:
+December 2024: 1.00 CHF   
+January 2025: 1.01 CHF   
 ,,
-July 2025: 1.07 CHF
-....  
-The fact that we use moving averages makes the price compared to fiat currencies low volatile.
-The sells price is not a peg, it's just the sales price.
-Wether the this price can be maintained or not, depends on the free market price of $Franc and the market price of the collateral of $Franc:
-$Kas and several memecoins, se next paragraph.
+July 2025: 1.07 CHF  
+....   
+The fact that we use moving averages makes the price compared to fiat currencies low volatile.  
+The sells price is not a peg, it's just the sales price.  
+Wether the this price can be maintained or not, depends on the free market price of $Franc and the market price of the collateral of $Franc:  
+$Kas and several memecoins, se next paragraph.  
 
 ## $Franc treasury, liquidity and collateral:  
 The funds from sales serve as collateral to support the price of $Franc.  
 Following cryptocurrency are taken as collateral:  
-About 50% Kaspa $Kas.
-The other 50% we will buy following OG memecoins on Kaspa KRC-20:
-$Mambo, $Jumbo, $Madmax, $Apes, $Kenobi, $Nacho $Keke (others maybe added, and mentioned maybe replaced).
-The fact that $Franc partially backed by mememcoins makes it crystal clear that it is not a stablecoin.
-But in average good times it should be at least as stable as a stablecoin.
-Yet we will not immediatly try to maintain the sales price, if it falls below.
+About 50% Kaspa $Kas.  
+The other 50% we will buy following OG memecoins on Kaspa KRC-20:  
+$Mambo, $Jumbo, $Madmax, $Apes, $Kenobi, $Nacho $Keke (others maybe added, and those mentioned maybe replaced).  
+The fact that $Franc is partially backed by mememcoins makes it crystal clear that it is not a stablecoin.  
+But in average good times it should be at least similar stable as a stablecoin.  
+We will not immediatly try to support the market price, if it falls below the official sales price.  
 We will occasionally buy it up, if the collateral allows to do so.
+This gives arbitrage traders, investors and speculators the occasion to buy $Franc at a discount.  
 
 ## $FRANC solidcoin - better than stablecoins - First currency on Kaspa KRC20 to be used similar to a stablecoin.
 What to expext from $Franc. You cannot expect Franc to trade within a narrow range of 0 -2% from the current sales price, like stablecoins do, if they are enough collateralized.  
