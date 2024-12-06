@@ -70,7 +70,7 @@ The funds from sales serve as collateral to support the price of $Franc.
 Following cryptocurrency are taken as collateral:  
 About 50% Kaspa $Kas.  
 The other 50% we will buy following OG memecoins on Kaspa KRC-20:  
-$Mambo, $Jumbo, $Madmax, $Apes, $Kenobi, $Nacho $Keke (others maybe added, and those mentioned maybe replaced).  
+$Mambo, $Jumbo, $Madmax, $Apes, $Kenobi, $Nacho $Keke $Kasper (others maybe added, and those mentioned maybe replaced).  
 The fact that $Franc is partially backed by mememcoins makes it crystal clear that it is not a stablecoin.  
 But in average good times it should be at least similar stable as a stablecoin.  
 We will not immediatly try to support the market price, if it falls below the official sales price.  
