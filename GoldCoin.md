@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/Projects/images/DigitalGold001.jpg" width="340" height="340">
+<img src="https://raw.githubusercontent.com/Mambo-Token/MamboLaunchPad/refs/heads/main/Projects/images/Gold-Logo.jpg" width="340" height="340">
 
 # $Gold: - the most prestige Solidcoin
 
