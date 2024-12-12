@@ -21,7 +21,14 @@ Easy.
 It can be used instead of a fiat stablecoin and it is much more fun to do so.  
 It should be fun to pay. You can now pay your coffee with $CAFE.  
 You enjoy your coffee already while paying it.  
-You can even mint your $Cafe to pay your coffee - yet we recommend to buy it on Marketplaces and Dexes to support the price long term.  
+You can even mint your $Cafe to pay your coffee - yet we recommend to buy it on Marketplaces and Dexes to support the price long term. 
+Making instant p2p payments is the primordial idea of creating Bitcoin and cryptocurrencies.  
+$Cafe is one of the first cryptocurrency allowing stable, instand and ultra cheap p2p payments without middleman!  
+
+## Shop's and people accepting $Cafe
+- a family clan in Poland makes payments with $Cafe for familiar payments.  
+- Mambo.Li is preparing a small shop accepting $Cafe, $Gold..  
+- The frist Coffee bar or Restaurant to accept $Cafe receives 1000 $Cafe !    
 
 ## Kaspa - instant ultra low cost decentralized payments
 Thanks to the most advance POW GhoastDag technology of Kaspa, it is finally possible to be used as daily payments currency.  
