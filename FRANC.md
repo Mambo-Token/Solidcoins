@@ -5,6 +5,7 @@ Current reference sell price:
 # $FRANC Solidcoin
 ## $FRANC solidcoin on Kaspa KRC-20 is the successor of $Franc "chocolate stablecoin" launched by Mambo back in 2021.
 ### The new $FRANC is explicitely NOT a stablecoin, but a solidcoin.  
+## Buy $FRANC here: https://KaspaMarket.io 
 
 ## The Goal of $FRANC
 The goal of $Franc and other solidcoins is to make using stablecoins obsolete.
