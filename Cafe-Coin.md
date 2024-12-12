@@ -90,10 +90,9 @@ So try to catch to randomly best offers.
 Everybody can sell their $Cafe too, that will create a floor price.  
 
 ### $CAFE is offered on marketplaces like:  
+https://KaspaMarket.io 
 KSPR: https://t.me/kspr_home_bot?start=PS8u4w  
-Kaspiano: https://kaspiano.com/?ref=1gZf4X3J  
 Kroc: https://t.me/delta_krocbot?start=b7b6k59ox2v  
-Kroc Bot Marketplace: t.me/kroc_otc_bot  
 https://swap.guac.fyi  
 New marketplaces, swaps and dexes.  
 
