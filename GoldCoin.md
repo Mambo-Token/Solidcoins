@@ -6,7 +6,7 @@
 
 $Gold intial price about 1/1000 of 1 ounce of Gold at 2500 USD at 0.17 Kas (September 2024).
 = 0.06 $Gold per mint (1 Kas)  
-1 $Gold = 16.6 Kas
+1 $Gold = 16.67 Kas
 
 The sales price is normally maximum 5-25% lower than the mint price. 
 
@@ -15,8 +15,11 @@ Funds from sales are used for the $Gold coin community treasury account.
 
 It can be used for liquidity pools and to support the price by bying up low price offers.
 
-We strongly reccomend **NOT to MINT** $Gold <br>
-but to buy $Gold on Marketplaces or here, <br>
+We strongly reccomend **NOT to MINT** $Gold <br>  
+but to buy $Gold on Marketplaces:  
+https://KaspaMarket.io   
+or  
+KSPR: https://t.me/kspr_home_bot?start=PS8u4w  
 to long term support the value of the coins. <br>
 
 **The minting price serves as a ceiling**, to maintain $Gold in these proportion to Kas.
@@ -43,6 +46,11 @@ $Gold is globally the first real digital Gold, thanks to Kaspa - which himself s
 It will be interesting to watch how the price of $Gold (and Kaspa) in comparision to physical Gold will deveop over time.<br>
 We assume that Kaspa (and $Gold) will surpass in price development of Gold.
 ...  
+## Shops, Restaurants and people accepting $Gold!  
+https://pulsar.li  
+https://Mambo.Li  
+your shop can be listed here if you accept $Gold  
+
 This paper will be updated later on with more fundamentals. Read the introduction text of the solidcoin topic and the $Cafe paper.  
 
 ## Why Solidcoins? <br>
