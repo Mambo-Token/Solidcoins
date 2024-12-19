@@ -41,7 +41,20 @@ The logo is the well known and loved logograph 福 Fu, meaning blessing, happine
 ## Roadmap  
 If $China finds a broader acceptance we may go further with following:  
 We plan to implement full DAO mechanisme once smart contracts are implemented in Kaspa.  
+We plan to make $China as trustless and decentralized as possible over time.
+We encourage people to become personal on-boarding points into $China and $Kas.
 We plan to implement trading robots to buy up dips, if collateral allows.  
 We plan to develop an automated fixed rates exchange between different solidcoins and stablecoins.  
+
+## Risks:  
+General risk of cryptocurrencies.    
+Risk of collateral loosing in value.  
+Human errors.   
+
+## Socials:  
+Website: https://github.com/Mambo-Token/Solidcoins/blob/main/China.md  
+X: https://x.com/MamboCoins  
+TG: https://t.me/MamboToken  
+Lgog: https://raw.githubusercontent.com/Mambo-Token/Logos-and-Socials/refs/heads/main/Solidcoin-Logos/China-Logo.jpg  
 
 
