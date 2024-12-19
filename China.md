@@ -13,12 +13,12 @@ Kas (Kaspa)/USD = 0.1489  (21 d ma)
 
 ## Why $China, what is $China Solidcoin?  
 
-$China solidcoin is not a stabecoin, but similar stable like a stablecoin.  
-It's a decentralized currency with low volatitly.  
-The goal is to be used like a stablecon.  
+$China solidcoin is not a stablecoin, but similar stable like a stablecoin.  
+It's a decentralized currency with low volatility.  
+The goal is to be used like a stablecoin.  
 The goal is to be used for payments and to store funds aimed to be used in cryptocurrencies.  
 $China brings more decentralization to the people.  
-$China aims to facilitate onboarding of people for using decentralized cryptocurrencies.  
+$China aims to facilitate on-boarding of people for using decentralized cryptocurrencies.  
 $China helps to bring people the the most powerful POW cryptocurrency Kaspa $Kas.
 
 ## Where to buy $China?  
@@ -28,14 +28,20 @@ https://kaspamarket.io/token/CHINA
 https://www.sealtracker.app/en/market/token/CHINA  
 
 ...
-## Colateral of $China  
+## Collateral of $China  
 Sales funds are used to build up liquidity and collateral.  
 $China is backed by $Kas (coming from sales or market maker actions)  
 and it can be partially backed by top OG memecoins like $Nacho $Keke $Kasper $Jumbo and others.  
 It's not excluded to take real trusted stablecoin as part of the collateral.  
-At the time of writing December 2024, there is no trusted stablecoin yet on KRC-20.
+At the time of writing December 2024, there is no trusted stablecoin yet on KRC-20.  
+
+## The Logo of $China  
+The logo is the well known and loved logograph 福 Fu, meaning blessing, happiness.  
+
+## Roadmap  
+If $China finds a broader acceptance we may go further with following:  
+We plan to implement full DAO mechanisme once smart contracts are implemented in Kaspa.  
+We plan to implement trading robots to buy up dips, if collateral allows.  
+We plan to develop an automated fixed rates exchange between different solidcoins and stablecoins.  
 
 
-
-
-More infos follow soon.
