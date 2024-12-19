@@ -1,5 +1,5 @@
 # $CHINA Solidcoin
-<img src="https://raw.githubusercontent.com/Logos-and-Socials/refs/heads/main/Solidcoin-Logos/China-Logo.jpg" width="340" height="340">  
+<img src="https://raw.githubusercontent.com/Mambo-Token/Logos-and-Socials/refs/heads/main/Solidcoin-Logos/China-Logo.jpg" width="340" height="340">  
 
 ## $China is a solidcoin on Kaspa KRC-20
 
