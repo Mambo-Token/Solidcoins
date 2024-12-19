@@ -18,6 +18,12 @@ X: https://x.com/MamboCoins
 Tg: https://t.me/MamboToken  
 Logo: https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/franc440r.png  
 
+# $CHINA  
+Website: https://github.com/Mambo-Token/Solidcoins/blob/main/China.md
+X: https://x.com/MamboCoins
+TG: https://t.me/MamboToken
+Lgog: https://raw.githubusercontent.com/Mambo-Token/Logos-and-Socials/refs/heads/main/Solidcoin-Logos/China-Logo.jpg
+
 # $XMAS  $KING $YESHUA  $JESUS $CHRIST Charity Coins
 
 ## $XMAS  
