@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/franc440r.png" width="340" height="340">  
 Current reference sell price:  
-1$ FRANC = 1CHF / 0.8854 USD / 0.1450 Kas = 7.79 Kas  (December 16, 2024, 21ma , 90ma)
+1$ FRANC = 1CHF / 0.8883 USD / 0.1425 Kas = 7.90 Kas  (December 20, 2024, 21ma , 90ma)
 
 # $FRANC Solidcoin  
 ## $FRANC solidcoin on Kaspa KRC-20 is the successor of $Franc "chocolate stablecoin" launched by Mambo back in 2021.  
