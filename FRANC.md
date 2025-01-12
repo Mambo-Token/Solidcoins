@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/franc440r.png" width="340" height="340">  
-Current reference sell price: 
+Current reference sell price:  
 1$ FRANC = 1.01CHF / 0.9030 USD 21d ma / 0.1358 Kas 90d ma = 8.24 Kas  (January 12, 2025)  
 1$ FRANC = 1CHF / 0.8883 USD 21d ma / 0.1425 Kas 90d ma = 7.90 Kas  (December 20, 2024)  
 
