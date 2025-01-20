@@ -5,7 +5,11 @@
 
 ## Price of $China:  
 The sales price of $China solidcoin is orientated at the 200 daily ma (moving average) of Yuan.  
-December 20, 2024: 
+
+Jan 20, 2025: 1 Yuan = 0.1387 USD 200dma/ 0.1297 kas 21dma = **1.0694 $Kas**   
+Dez 20, 2024: 1 Yuan = 0.1392 USD 200dma/ 0.1484 kas 21dma = 0.9380 $Kas    
+
+Initial pirce, how it's calculated: December 20, 2024:  
 1 USD = 7.1835 CNY (Yuan, 200 d ma)  
 1 Yuan = 0.1392 USD  (Yuan, 200 d ma)
 Kas (Kaspa)/USD = 0.1484  (21 d ma)    
