@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/franc440r.png" width="340" height="340">  
 
 Current reference sell price:   
+1$ FRANC = 1.02CHF / 0.9070 USD 21d ma / 0.1343 Kas 90d ma = 8.37 Kas  (February 10, 2025) 
 1$ FRANC = 1.01CHF / 0.9030 USD 21d ma / 0.1358 Kas 90d ma = 8.24 Kas  (January 12, 2025)   
 1$ FRANC = 1CHF / 0.8883 USD 21d ma / 0.1425 Kas 90d ma = 7.90 Kas  (December 20, 2024)   
 
@@ -14,25 +15,25 @@ https://sealtracker.app/en/market
 ## The Goal of $FRANC
 The goal of $Franc and other solidcoins is to make using stablecoins obsolete.
 The goal is to replace the need of stablecoins to about 80-90%.
-The goal is to be part of the movement to get take back the control over money used for daily life payments into the hand of people, decentralized.
-While Mambo is private, the concepts of solidcoins are easy and can be copied and immitated by others - and we would like to see that.
+The goal is to be part of the movement to take back the control over money used for daily life payments into the hand of people, decentralized.
+While Mambo is private, the concepts of solidcoins are easy and can be copied and imitated by others - and we would like to see that.
 The fact that anybody can launch his/her own solidcoin - makes it decentralized.
 It's like anybody can create a mememcoin - that's out of central control. So are solidcoins, since they are not stablecoins.
 The free market then  will decide in a decentralized way wich solidcoins are used.  
-If people have the choice to choose between different coins manage by private teams, that can be considered as decentral, since it's the free market, and not a central entity.
+If people have the choice to choose between different coins managed by private teams, that can be considered as decentral, since it's the free market, and not a central entity.
 And they can be replace by others if things do not work as they should.  
 
 ## Roadmap or $Franc  
 That being said, we aim to make $Franc and our other solidcoins over time as decentralized as possible.  
 We plan to implement market maker trading robots - once Kaspa has smart contracts.  
-We plan to write to whole token managment into smart contracts.  
+We plan to write the whole token managment into smart contracts.  
 We plan to make $Franc and other solidcoins working completely trustless.   
 In thhe beginnin, it must be managed unto the prescribed direction.  
 We plan to create a sort of DAO - but most so called DAO are a farce, that's just a form of plutocracy (whalescracy), still better than centralized stuff.  
 We plan to make ourselves finally superfluous.  
 ...  
 Next steps: If enough $Franc are sold into circulation, we can open an LP on real Dexes.  
-Hopefully there will be Dexes with possibility to open LP's with to tokens of choice. So we could pair two solidcoins in a LP.
+Hopefully there will be Dexes with possibility to open LP's with two tokens of choice. So we could pair two solidcoins in a LP.
 
 ## Characteristic and price of $FRANC solidcoin  
 Originally $Franc was soft pegged on the price of Toblerone chocolate - correlated to CHF, but with an annual growth rate of abotu 6%.  
@@ -52,7 +53,7 @@ Sell price increases yearly 12%, monthly 1%.
 To calculate the sells price in Kas we will take a 90 days moving average price of $Kas (90d ma),   
 We will take an approximate Forex exchange price USD-CHF (21d ma). 
 Applying moving averages takes out the hectic and stress from short term volatile spikes and makes $Franc smooth and low volatile.  
-The price is adapted weekly. In cases of heavy volatility and big price changes we may adapt the price as it occurs.  
+The price is adapted weekly or monthly. In cases of heavy volatility and big price changes we may adapt the price as it occurs.  
 Example:  
 Dec 3, 2024:  
 $Kas 90d MA (moving average) = 0.1495 USD.  
@@ -73,7 +74,7 @@ $Kas and several memecoins, se next paragraph.
 ## $Franc treasury, liquidity and collateral:  
 The funds from sales serve as collateral to support the price of $Franc.  
 A part will be used for real dex liquidity pools.  
-Following cryptocurrency are taken as collateral:  
+Following cryptocurrencies are taken as collateral:  
 About 50% Kaspa $Kas.  
 The other 50% we will buy following OG memecoins on Kaspa KRC-20:  
 $Nacho, $Keke, $Kasper, $Mambo, $Jumbo, $Madmax, $Apes, $Kenobi,  (others maybe added, and those mentioned maybe replaced).  
