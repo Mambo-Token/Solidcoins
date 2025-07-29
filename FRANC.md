@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/franc440r.png" width="340" height="340">  
 
 Current reference sell price:  
+New, pairing with UDDT on Hibit:  
+1$ FRANC = 1.07CHF / 0.8024 USD 21d ma = 1.33 USDT (July 28, 2025)  
 1$ FRANC = 1.07CHF / 0.8000 USD 21d ma / 0.0898 Kas 90d ma = 14.89 Kas  (July 28, 2025)  
 1$ FRANC = 1.06CHF / 0.8266 USD 21d ma / 0.0870 Kas 90d ma = 14.74 Kas  (June 6, 2025)  
 1$ FRANC = 1.02CHF / 0.9070 USD 21d ma / 0.1343 Kas 90d ma = 8.37 Kas  (February 10, 2025)   
@@ -10,9 +12,10 @@ Current reference sell price:
 # $FRANC Solidcoin  
 ## $FRANC solidcoin on Kaspa KRC-20 is the successor of $Franc "chocolate stablecoin" launched by Mambo back in 2021.  
 ### The new $FRANC is explicitely NOT a stablecoin, but a solidcoin.  
-## Buy $FRANC here: 
-https://KaspaMarket.io  
-https://sealtracker.app/en/market  
+## Buy $FRANC here:  
+## https://Hibit.app   
+https://KaspaMarket.io   
+
 
 ## The Goal of $FRANC
 The goal of $Franc and other solidcoins is to make using stablecoins obsolete.
