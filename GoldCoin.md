@@ -1,34 +1,43 @@
 <img src="https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/Gold-Logo.png" width="340" height="340">
 
-# $Gold: - the most prestige Solidcoin
+# $Gold: - the most prestige Solidcoin  
 
-## The first real digital $GOLD:
-
-$Gold intial price about 1/1000 of 1 ounce of Gold at 2500 USD at 0.17 Kas (September 2024).
-= 0.06 $Gold per mint (1 Kas)  
-1 $Gold = 16.67 Kas
+## The first real digital $GOLD: 
+   
+$Gold's intial price was about 1/1000 of 1 ounce of Gold at anticipated 2800 USD at 0.168 Kas (September 15, 2024).  
+2800USD/1000/0.168 Kas = 16.67 Kas / $Gold  
+1 $Gold = 16.67 Kas  
+16,67 Kas for 1 $Gold is the cap.  
+You should not pay much more for it, since you can mit it at about 17 Kas.
+---  
+Half of supply is for sale on Dex's and Marketplace. The other half is for minting.
+Minting cost:  
+= 0.06 $Gold per mint (1 Kas). 
+That are 16.67 mints per 1 $Gold, about 17 Kas costs.
 
 The sales price is normally maximum 5-25% lower than the mint price. 
+We encourage buying instead of minting buy offering limited amounts in the range 15-16.6 Kas, slightly belwo the cap.  
+Ideally, there should be more tokens in circulation through sales then by minting to support the price long term.  
+### Funds from sales are used for the $Gold coin community treasury account.
 
-Ideally, there should be more tokens in circulation through sales then by minting to support the price long term.
-Funds from sales are used for the $Gold coin community treasury account. 
+It is used for liquidity pools and to support the price by bying it up, if it's dumped.
 
-It can be used for liquidity pools and to support the price by bying up low price offers.
-
-We strongly reccomend **NOT to MINT** $Gold <br>  
-but to buy $Gold on Marketplaces:  
-https://KaspaMarket.io   
-or  
+**We strongly reccomend NOT to MINT $Gold**   
+but to buy $Gold on Dex's (coming)   
+https://hibit.app (Multichain L2 dex)    
+or on Marketplaces:   
+https://Kaspa.com  
 KSPR: https://t.me/kspr_home_bot?start=PS8u4w  
-to long term support the value of the coins. <br>
+    
+If you buy it instead of minting, you help to support price and the value of the coin, building up collateral. <br>
 
-**The minting price serves as a ceiling**, to maintain $Gold in these proportion to Kas.
+**The minting price serves as a ceiling**, to maintain $Gold in these proportion to Kas.  
 
-The future will show whether physical Gold or Kas will perform better , $Gold will follow Kas.
+The future will show whether physical Gold or Kas will perform better , $Gold will follow Kas.  
 
-The general solidcoin whitepaper is in preparation, as is the $Gold coin whitepaper.
+  
 
-## Tokenomics of $Gold:
+## Tokenomics of $Gold:  
 
 Total supply: 50,000,000,000 <br>
 Premint 50%: 25,000,000,000 <br>
@@ -44,16 +53,25 @@ An ideal usecase will be,that $Gold is accepted in online and offline shops as p
 $Gold is globally the first real digital Gold, thanks to Kaspa - which himself should be considered as digital Gold, inspite it's name is Silver. :-).
 
 It will be interesting to watch how the price of $Gold (and Kaspa) in comparision to physical Gold will deveop over time.<br>
-We assume that Kaspa (and $Gold) will surpass in price development of Gold.
+We assume that Kaspa (and $Gold) will surpass in price development of Gold.  
 ...  
 ## Shops, Restaurants and people accepting $Gold!  
 https://pulsar.li  
 https://Mambo.Li  
 your shop can be listed here if you accept $Gold  
 
-This paper will be updated later on with more fundamentals. Read the introduction text of the solidcoin topic and the $Cafe paper.  
+## Realistic price expectations of $Gold
+$Gold is capped at 16,67 Kas (Kaspa). it can easily go lower, if people, specially those who minted it, want to liquidate it. And since the Gold circulating from minting does not contribute to support the price.  
+If demand is enough high, Gold maybe about 16,67. With lower demand, it may fall below. We put supportive buy orders on Dex's from the treasury.  
+You cannot expect $Gold to go above 16,67 Kas long term. But you an expect $Gold to be a good place to store value and an ideal and beatifull way to pay. The first real digita Gold.  
+
+## Outlook
+Once we have smart contract on L2's on Kaspa, we plan to fully automatize with smart contract most of the selling and buying, making it completely decentralized. But for this we nee support of the idea and funds, best to buy into $Gold if you like the idea.
 
 ## Why Solidcoins? <br>
-Those coins aim to teplace completely the need of stablecoins with their problems with anti crypto authorities and regulations.
+Those coins aim to teplace completely the need of stablecoins with their problems with anti crypto authorities and regulations, control, freezing threats.
 Solidcoins are not stablecoins, but collectible memecoins held in a certain price range in relation to Kas, the ultimate decentralized cryptocurrency.
-Solidcoins makes payment fun, fast, decentralized, easy offer a kine of investment backed partially by Kas (and other solidcoins or mememcoins)
+Solidcoins makes payment fun, fast, decentralized, easy offer a kine of investment backed partially by Kas (and other solidcoins or mememcoins)  
+  
+In case you are searching for the whitepaper. This is it. :-).
+This paper may be updated later with more fundamentals. Read the introduction text of the solidcoin topic and the $Cafe paper.  
