@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/franc440r.png" width="340" height="340">  
 
 Current reference sell price:  
-New, pairing with UDDT on Hibit:  
+New, pairing with USDT on Hibit:  
+1$ FRANC = 1.08CHF / 0.8028 USD 21d ma = 1.345 USDT (Agust 3, 2025) 
 1$ FRANC = 1.07CHF / 0.8024 USD 21d ma = 1.33 USDT (July 28, 2025)  
 1$ FRANC = 1.07CHF / 0.8000 USD 21d ma / 0.0898 Kas 90d ma = 14.89 Kas  (July 28, 2025)  
 1$ FRANC = 1.06CHF / 0.8266 USD 21d ma / 0.0870 Kas 90d ma = 14.74 Kas  (June 6, 2025)  
