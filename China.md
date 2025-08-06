@@ -35,7 +35,7 @@ https://www.sealtracker.app/en/market/token/CHINA
 ## Collateral of $China  
 Sales funds are used to build up liquidity and collateral.  
 $China is backed by $Kas (coming from sales or market maker actions)  
-and it can be partially backed by top OG memecoins like $Nacho $Keke $Kasper $Jumbo and others.  
+and it can be partially backed by top OG memecoins like $Nacho $Keke $Kasper $Mambo, $Whales and others.  
 It's not excluded to take real trusted stablecoin as part of the collateral.  
 At the time of writing December 2024, there is no trusted stablecoin yet on KRC-20.  
 
