@@ -1,19 +1,17 @@
 # $CHINA Solidcoin
 <img src="https://raw.githubusercontent.com/Mambo-Token/Logos-and-Socials/refs/heads/main/Solidcoin-Logos/China-Logo.jpg" width="340" height="340">  
 
-## $China is a solidcoin on Kaspa KRC-20
+## $China is a solidcoin on Kaspa KRC-20  
 
-## Price of $China:  
-The sales price of $China solidcoin is orientated at the 200 daily ma (moving average) of Yuan.  
+## Price of $China:   
+The sales price of $China solidcoin is orientated at the 200 daily ma (moving average) of Yuan to USD.  
 
-Jan 20, 2025:  
-1 $China = 1 Yuan = 0.1387 USD 200dma/ 0.1297 kas 21dma = **1.0694 $Kas**   
-Dez 20, 2024:  
-1 $China = 1 Yuan = 0.1392 USD 200dma/ 0.1484 kas 21dma = 0.9380 $Kas    
+Aug  6, 2025:  1 $China = 1 CNY/USD 200dma = 0.1386 USD/ 0.0862 kas current = 1.608 $Kas  
+Jan 20, 2025:  1 $China = 1 CNY/USD 200dma = 0.1387 USD/ 0.1297 kas 21dma = 1.0694 $Kas  
+Dez 20, 2024:  1 $China = 1 CNY/USD 200dma = 0.1392 USD/ 0.1484 kas 21dma = 0.9380 $Kas     
 
-Initial pirce, how it's calculated: December 20, 2024:  
-1 USD = 7.1835 CNY (Yuan, 200 d ma)  
-1 Yuan = 0.1392 USD  (Yuan, 200 d ma)
+Initial price, how it's calculated: December 20, 2024:  
+1 Yuan = 0.1392 USD  (Yuan, 200 d ma) or switched: 1 USD = 7.1835 CNY (Yuan, 200 d ma)  
 Kas (Kaspa)/USD = 0.1484  (21 d ma)    
 1 Yuan = 0.1392 / 0.1484 = 0.9380 $Kas  
 
