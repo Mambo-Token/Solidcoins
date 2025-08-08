@@ -39,7 +39,11 @@ We plan to create a sort of DAO - but most so called DAO are a farce, that's jus
 We plan to make ourselves finally superfluous.  
 ...  
 Next steps: If enough $Franc are sold into circulation, we can open an LP on real Dexes.  
-Hopefully there will be Dexes with possibility to open LP's with two tokens of choice. So we could pair two solidcoins in a LP.
+Hopefully there will be Dexes with possibility to open LP's with two tokens of choice. So we could pair two solidcoins in a LP.  
+What is really needed, is not just another old scool AMM Dex, but a AMM Dex combined dynamically with limit buy and sell orders.  
+Update Agust 2025: hibit.app PEX (privat exchange) offers exacthly the funcionalities we need to manage smoothly a solidcoin:  
+A mixed AMM/limit orders swap and tradingplattform. This is the minimum requirement for a good DEX!  
+So hibit.app shows how to to it.
 
 ## Characteristic and price of $FRANC solidcoin  
 Originally $Franc was soft pegged on the price of Toblerone chocolate - correlated to CHF, but with an annual growth rate of abotu 6%.  
