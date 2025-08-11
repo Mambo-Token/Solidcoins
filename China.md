@@ -6,6 +6,7 @@
 ## Price of $China:   
 The sales price of $China solidcoin is orientated at the 200 daily ma (moving average) of Yuan to USD.  
 
+Aug 11, 2025:  1 $China = 1 CNY/USD 200dma = 0.1386 USD/ 0.090 kas 21dma = 1.540 $Kas (or 0.1464 USD current)  
 Aug  6, 2025:  1 $China = 1 CNY/USD 200dma = 0.1386 USD/ 0.0870 kas current = 1.593 $Kas  
 Jan 20, 2025:  1 $China = 1 CNY/USD 200dma = 0.1387 USD/ 0.1297 kas 21dma = 1.0694 $Kas  
 Dez 20, 2024:  1 $China = 1 CNY/USD 200dma = 0.1392 USD/ 0.1484 kas 21dma = 0.9380 $Kas     
@@ -27,9 +28,8 @@ $China helps to bring people the the most powerful POW cryptocurrency Kaspa $Kas
 
 ## Where to buy $China?  
 
-It can be bought on Marketplaces:  
-https://kaspamarket.io/token/CHINA  
-https://www.sealtracker.app/en/market/token/CHINA  
+It can be bought on Marketplaces and soon on DExes:  
+[**Kaspa.com**](https://kaspa.com/?ref=3Lt9YofQ)  
 
 ...
 ## Collateral of $China  
