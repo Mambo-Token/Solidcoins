@@ -18,8 +18,9 @@ Kas (Kaspa)/USD = 0.1484  (21 d ma)
 
 ## Why $China, what is $China Solidcoin?  
 
-$China solidcoin is not a stablecoin, but similar stable like a stablecoin.  
-It's a decentralized currency with low volatility.  
+$China solidcoin is not a stablecoin, but similar stable like a stablecoin. 
+It's a stabilized memecoin.  
+It's a decentralized memecoin currency with low volatility.  
 The goal is to be used like a stablecoin.  
 The goal is to be used for payments and to store funds aimed to be used in cryptocurrencies.  
 $China brings more decentralization to the people.  
@@ -29,7 +30,7 @@ $China helps to bring people the the most powerful POW cryptocurrency Kaspa $Kas
 ## Where to buy $China?  
 
 It can be bought on Marketplaces and soon on DExes:  
-[**Kaspa.com**](https://kaspa.com/?ref=3Lt9YofQ)  
+[Kaspa.com](https://kaspa.com/?ref=3Lt9YofQ)  
 
 ...
 ## Collateral of $China  
