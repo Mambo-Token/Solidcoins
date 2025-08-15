@@ -19,8 +19,7 @@ Kas (Kaspa)/USD = 0.1484  (21 d ma)
 
 ## Why $China, what is $China Solidcoin?  
 
-$China solidcoin is not a stablecoin, but similar stable like a stablecoin. 
-It's a stabilized memecoin.  
+$China solidcoin is not a stablecoin, but a stabilized collectible memecoin.  
 It's a decentralized memecoin currency with low volatility.  
 The goal is to be used like a stablecoin.  
 The goal is to be used for payments and to store funds aimed to be used in cryptocurrencies.  
@@ -32,8 +31,14 @@ $China helps to bring people the the most powerful POW cryptocurrency Kaspa $Kas
 
 It can be bought on Marketplaces and soon on DExes:  
 [Kaspa.com](https://kaspa.com/?ref=3Lt9YofQ)  
-
 ...
+## How it works:  
+It's that is as: Fix the sales price. It' like a price cap.  
+But unlike stablecoins, it can fall below this price from people selling it.  
+The treasury wallet funds will buy it up if possible to a range of 10-20% of the sales price.  
+So it's held in a stable range. Btw, thats how good memecoins shoul be managed.  
+More about that in the solidcoin concept paper.  
+
 ## Collateral of $China  
 Sales funds are used to build up liquidity and collateral.  
 $China is backed by $Kas (coming from sales or market maker actions)  
@@ -63,4 +68,4 @@ X: https://x.com/MamboCoins
 TG: https://t.me/MamboToken  
 Lgog: https://raw.githubusercontent.com/Mambo-Token/Logos-and-Socials/refs/heads/main/Solidcoin-Logos/China-Logo.jpg  
 
-
+This whitepaper was last updated Augus 15, 2025.  
