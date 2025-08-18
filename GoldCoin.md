@@ -8,24 +8,23 @@ $Gold's intial price was about 1/1000 of 1 ounce of Gold at anticipated 2800 USD
 2800USD/1000/0.168 Kas = 16.67 Kas / $Gold  
 1 $Gold = 16.67 Kas  
 16,67 Kas for 1 $Gold is the cap.  
-You should not pay much more for it, since you can mit it at about 17 Kas.
+You should not pay much more for it, since you can mint it at about 17 Kas per 1 $Gold.
 ---  
-Half of supply is for sale on Dex's and Marketplace. The other half is for minting.
+Half of supply is for sale on Dex's and Marketplaces. The other half is for minting.
 Minting cost:  
-= 0.06 $Gold per mint (1 Kas). 
+= 0.06 $Gold per mint (min. 1 Kas). 
 That are 16.67 mints per 1 $Gold, about 17 Kas costs.
 
-The sales price is normally maximum 5-25% lower than the mint price. 
-We encourage buying instead of minting buy offering limited amounts in the range 15-16.6 Kas, slightly belwo the cap.  
+The sales price is normally maximum 5-25% lower than the mint price. But market sell offs can bring it temporarely further down.  
+We encourage buying instead of minting. We sell limited amounts in the range 13-16.6 Kas, slightly belwo the cap.  
 Ideally, there should be more tokens in circulation through sales then by minting to support the price long term.  
-### Funds from sales are used for the $Gold coin community treasury account.
-
-It is used for liquidity pools and to support the price by bying it up, if it's dumped.
+### Funds from sales are used for the $Gold coin community treasury account.  
+It is used for liquidity pools and to support the price by bying it up, if it's dumped.  
 
 **We strongly reccomend NOT to MINT $Gold**   
 but to buy $Gold on Dex's (coming)   
-https://hibit.app (Multichain L2 dex)    
-or on Marketplaces:   
+$Gold will soon be on https://kspr.Exchange dex in pool with $Cafe.  
+You may get the best fixed price and buy it with Kas on Marketplaces:  
 https://Kaspa.com  
 KSPR: https://t.me/kspr_home_bot?start=PS8u4w  
     
