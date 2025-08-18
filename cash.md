@@ -106,3 +106,9 @@ This is the whitepaper v 08.2025, and Website.
 Join: https://t.me/Mambotoken  
 https://x.com/Mambocoins  
 
+### Logo variants: 
+Black background: 
+<img src="https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/Cash-Logo-black.png" width="300" height="300">   
+
+Transparent K and Background:  
+<img src="https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/Cash-Logo-transparent.png" width="340" height="340">  
