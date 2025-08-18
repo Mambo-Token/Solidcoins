@@ -73,6 +73,8 @@ Reserves of $Cash are not in circulation and should not be calculated for Market
 Reserve accounts:  will be updated soon ...
 Even $Cash in a big DEX LP token/token pools shoul not be calculated as being in circulation, as those pools are balances.  
 
+### Read more about the solidcoin protokoll in the solidcoin whitepaper.  
+
 ## Risk of investing in $CASH solidcoin
 - the general risk involved with cryptocurrencies  
 - if the price of $Kas and the memecoins from the collateral treasury falls heavily, this may cause $Cash price to fall too, since their would not be enough buying power to support it.  
@@ -99,4 +101,8 @@ In 2022 zlall.com on zilliqa proved that such a dex can be made and it functione
 How does it come, that devs are so blind to the fact on how much benefit a mixed AMM / limit order DEX would be, replacing the need of Cexes for trading.  
 Cexes in future should solely be useful for fiat-crypto bridges.  
 
+## Socials  
+This is the whitepaper v 08.2025, and Website.  
+Join: https://t.me/Mambotoken  
+https://x.com/Mambocoins  
 
