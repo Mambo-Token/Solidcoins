@@ -10,18 +10,21 @@ $Cash can fall below this price if there is a heavy selling of circulating $Cash
 The $Cash community treasury will occasionally partially buy up heavy price dumpbs with collateral from sales.  
 This should keep $Cash in a reliabe price range to use it for daily life payments.  
 
+## Price of $CASH  
 ## Current reference sell price:  
 1CASH = 1.00 USD / 0.08xy Kas 21d ma = xy Kas  (August 18, 2025)  will be updated soon.....
 
+### At Launch:  
+1 $CASH Solidcoin = 1 USD in Kas 21d MA.  (= 21 days moving average of USD/Kas.)  
 ## Inflation protection!  
 The sales price of $Cash increases every month 0.5-1% towards USD.  
-Examples: First month prices: 1$Cash = 1 USD. Seont month: $Cash = 1.01 USD. etc.  
+Examples: First month prices: 1$Cash = 1 USD. Second month: 1 $Cash = 1.01 USD. etc.  
 
 ## Buy $CASH here:  
 ## Kaspa.com (pay with Kas without slippage with limit orders.
-## $FRANC will soon be avaiable on https://kspr.exchange 
-$Franc will be in pools with other solidcoins like $China, $Cash and Memecoin $Mambo  
-### We will then consider to list $Franc on the other dexes too.  
+## $CASH will soon be avaiable on https://kspr.exchange 
+$CASH will be in pools with other solidcoins like $China, $Franc and Memecoin $Mambo.    
+### Later we consider to list $Cash on the other dexes too.  
 
 ## The Goal of $CASH  
 The goal of $Cash and other solidcoins is to make using stablecoins obsolete.  
@@ -35,9 +38,6 @@ It's all a matter of trust. Why i.e. do ppl trust so heavy in USDT. It was build
 If people have the choice to choose between different coins managed by private teams, that can be considered as decentral, since it's the free market, and not a central entity which decides what to use.  
 And they can be replace by others if things do not work as they should.  
 The main goal is to put $Cash into a smart contract controlled DAO, making our management no longer necessary.  
-
-## Price of $CASH  
-### At Launch: 1 $CASH Solidcoin = 1 USD in Kas 21d MA.  (= 21 days moving average of USD/Kas.)  
 
 ## The Logo of $CASH
 We are really proud of this Logo. It's the vertically flipped Kaspa Kas logo, with the complementary colors. 
