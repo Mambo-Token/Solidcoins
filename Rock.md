@@ -37,12 +37,12 @@ Emphasizing the uniqueness of all native KRC-20 Memecoins and tickers.
 Remembering the real ethos of why at cryptos were created and what the Ethos of Kaspa is:  
 DECENTRALIZATION.  
 
-$Rock is dedicated for trading on DEX'es.  
+$Rock is dedicated for trading on DEX'es and Marketplaces.  
 
-## Socials:
-Website: This
-https://t.me/Mambotoken
-https://x.com/Mambocoins
+## Socials:  
+Website: This  
+https://t.me/Mambotoken  
+https://x.com/Mambocoins  
 
 updated September 7, 2025.  
 This is the Whitepaper of $Rock (in case you missed :-))  
