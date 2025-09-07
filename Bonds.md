@@ -36,3 +36,11 @@ $Bonds and $Rock aim to become the most liked and precious staking reward tokens
 ### Socials  
 https://t.me/MamboToken  
 https://x.com.Mambocoins  
+
+### Transparency  
+Locked reserves account:  
+kaspa:qzh8x6qxdkvt83rx0500urznhx3a5trhf9yddwxx8vaq232ttzdax3ff62d3p
+Reserves account:  
+
+Liquidity Managment, sales, rewards:  
+
