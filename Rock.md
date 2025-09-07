@@ -16,9 +16,10 @@ The high mint costs reflect the extreme scarcity of $ROCK.
 ### How the preminted $Rock are used:  
 - They are openly and fair sold on Marketplaces from 100 Kas upwards.  
 - They are put in LP's on Dex'es for fair sales and distribution.
-- A big part will be in LP's with $Whales and others.  
+- A big part will be in LP's with $Whales and others.   
 - They are used as reward tokens for staking.
-- 
+- No preallocation. Zero. 0%!   
+
 ### Funds from sales:  
 Funds from sales are uses for Liquidity Pools, price support and funding staking rewards.  
 
