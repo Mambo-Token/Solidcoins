@@ -44,5 +44,11 @@ Website: This
 https://t.me/Mambotoken  
 https://x.com/Mambocoins  
 
+### Transparency:  
+Reserves & Treasury account:   
+kaspa:qr45myk5ukwf63v4exftp9dda4mae7cfaryt8seeyug059m9mymwkgzdza3yf   
+LP (DEXes) & sales managment account:   
+kaspa:qz8dg494aqnfhxqmja6re253larny97eutfl8e5ewrur09jp9pr0k9hxq97v0  
+
 updated September 12, 2025.  
 This is the Whitepaper of $Rock (in case you missed it :-))  
