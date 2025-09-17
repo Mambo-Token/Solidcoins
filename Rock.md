@@ -21,17 +21,17 @@ The high mint costs reflect the extreme scarcity of $ROCK.
 - No preallocation. Zero. 0%!   
 
 ### Funds from sales:  
-Funds from sales are uses for Liquidity Pools, price support and funding staking rewards.  
+Funds from sales are used for Liquidity Pools, price support and funding staking rewards.  
 
 ## Why $Rock
-The $Rock KRC-20 OG Memecoin1
-honors the dedication, work, financial sacrifices and campaigns of all those early OG KRC-20 Memecoins  
-deployed since June 30, 2024 and September 15, 2024, the start of the most unique Memecoins in the whole cryptospace.   
-As the statistis shows, only about 5% of over 2000 tokens deployed in this first year survived.  
+The $Rock KRC-20 OG Memecoin honors the dedication, work, financial sacrifices and campaigns   
+of all those early OG KRC-20 Memecoins  deployed since June 30, 2024 and September 15, 2024,   
+the start of the most unique Memecoins in the whole cryptospace.   
+As the statistic shows, only about 5% of over 2000 tokens deployed in this first year survived.  
 It's a pity for those nice tickers lost by to expensive minting parameters. The tickers cannot be reproduced.  
 The Rock memecoin honors dedication and focuses on decentralization.  
 
-## The mission of The $Rock:
+## The mission of The $Rock:  
 Similar to $Whales, the mission of The $ROCK token is:  
 Emphasizing the uniqueness of all native KRC-20 Memecoins and tickers.  
 Remembering the real ethos of why at all cryptos were created and what the ethos of Kaspa is:  
