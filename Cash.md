@@ -13,6 +13,7 @@ This should keep $Cash in a reliabe price range to use it for daily life payment
 
 ## Price of $CASH  
 ## Current reference sell price:  
+1CASH = 1.01 USD / 0.08279 Kas 21d ma = 12,20 Kas  (September 25, 2025)  
 1CASH = 1.01 USD / 0.08517 Kas 21d ma = 11,85 Kas  (September 17, 2025)   
 1CASH = 1.01 USD / 0.08460 Kas 21d ma = 11,93 Kas  (September 07, 2025)  
 1CASH = 1.01 USD / 0.08696 Kas 21d ma = 11,61 Kas  (September 03, 2025)   
@@ -69,7 +70,7 @@ A part will be used for real dex liquidity pools.
 Following cryptocurrencies are taken as collateral:  
 About 50-70% Kaspa $Kas.  
 The other 30-50% will be OG memecoins on Kaspa KRC-20:  
-We consider $Nacho, $Keke, $Kasper, $Pepe, $Mambo, $Madmax, $Apes, $Kenobi, $Whales and others, if they are avaiable at Dexes or marketplaces at good prices.   
+We consider $Nacho, $Keke, $Kasper, $Pepe, $Mambo, $Madmax, $Rock, $Whales, $Apes, $Banana, $Kenobi, and others, if they are avaiable at Dexes or marketplaces at good prices.   
 The fact that $Cash is partially backed by mememcoins makes it crystal clear that it is not a stablecoin.  
 Collateral will be used to buy into price dumps to support the price of the token.  
  
