@@ -68,9 +68,9 @@ You cannot expect $Gold to go above 16,67 Kas long term. But you an expect $Gold
 Once we have smart contract on L2's on Kaspa, we plan to fully automatize with smart contract most of the selling and buying, making it completely decentralized. But for this we nee support of the idea and funds, best to buy into $Gold if you like the idea.
 
 ## Why Solidcoins? <br>
-Those coins aim to teplace completely the need of stablecoins with their problems with anti crypto authorities and regulations, control, freezing threats.
-Solidcoins are not stablecoins, but collectible memecoins held in a certain price range in relation to Kas, the ultimate decentralized cryptocurrency.
-Solidcoins makes payment fun, fast, decentralized, easy offer a kine of investment backed partially by Kas (and other solidcoins or mememcoins)  
+Those coins aim to replace completely the need of stablecoins with their problems with anti crypto authorities and regulations, control, freezing threats.
+Solidcoins like $Gold and $Cafe are not stablecoins, but collectible memecoins held in a certain price range in relation to Kas, the ultimate decentralized cryptocurrency.  
+Solidcoins make payment fun, fast, decentralized, easy offer a kind of investment backed partially by Kas (and other solidcoins or mememcoins).    
   
-In case you are searching for the whitepaper. This is it. :-).
+In case you are searching for the whitepaper. This is it. :-).  
 This paper may be updated later with more fundamentals. Read the introduction text of the solidcoin topic and the $Cafe paper.  
