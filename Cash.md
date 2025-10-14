@@ -12,7 +12,8 @@ The $Cash community treasury will occasionally partially buy up heavy price dump
 This should keep $Cash in a reliabe price range to use it for daily life payments.  
 
 ## Price of $CASH  
-## Current reference sell price:  
+## Current reference sell price:   
+1CASH = 1.02 USD / 0.07147 Kas 21d ma = 14,27 Kas  (Oktober 14, 2025)   
 1CASH = 1.01 USD / 0.08279 Kas 21d ma = 12,20 Kas  (September 25, 2025)  
 1CASH = 1.01 USD / 0.08517 Kas 21d ma = 11,85 Kas  (September 17, 2025)   
 1CASH = 1.01 USD / 0.08460 Kas 21d ma = 11,93 Kas  (September 07, 2025)  
@@ -21,7 +22,8 @@ This should keep $Cash in a reliabe price range to use it for daily life payment
 1CASH = 1.00 USD / 0.0945  Kas 21d ma = 10,58 Kas  (August 22, 2025)  Start price.
 
 ### At Launch:  
-1 $CASH Solidcoin = 1 USD in Kas 21 dMA (= 21 days moving average of USD/Kas) = 10,58 Kas. 
+1 $CASH Solidcoin = 1 USD in Kas 21 dMA (= 21 days moving average of USD/Kas) = 10,58 Kas.  
+  
 ## Inflation protection!  
 The sales price of $Cash increases every month 0.5-1% towards USD.  
 Examples: First month prices: 1$Cash = 1 USD. Second month: 1 $Cash = 1.01 USD. etc.  
