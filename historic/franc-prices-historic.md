@@ -1,5 +1,9 @@
 
-1$ FRANC = 1.09CHF / 0.8044 USD 21d ma / 0.08920 Kas 90d ma = 15,19 Kas  (August 31, 2025)   
+
+1$ FRANC = 1.09CHF / 0.7962 USD 21d ma / 0.08648 Kas 90d ma = 15,83 Kas  (September 25, 2025)    
+1$ FRANC = 1.09CHF / 0.7980 USD 21d ma / 0.08749 Kas 90d ma = 15,61 Kas  (September 17, 2025)    
+1$ FRANC = 1.09CHF / 0.8036 USD 21d ma / 0.08802 Kas 90d ma = 15,41 Kas  (September  7, 2025)  
+1$ FRANC = 1.09CHF / 0.8044 USD 21d ma / 0.08920 Kas 90d ma = 15,19 Kas  (August 31, 2025)    
 1$ FRANC = 1.08CHF / 0.8056 USD 21d ma / 0.08967 Kas 90d ma = 14,95 Kas  (August 24, 2025)   
 1$ FRANC = 1.08CHF / 0.8055 USD 21d ma / 0.08990 Kas 90d ma = 14,91 Kas  (August 15, 2025)  
 1$ FRANC = 1.08CHF / 0.8045 USD 21d ma / 0.08949 Kas 90d ma = 15,01 Kas  (August 10, 2025)   
