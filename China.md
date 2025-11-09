@@ -7,6 +7,7 @@
 The sales price of $China solidcoin is orientated at the 200 daily ma (moving average) of Yuan to USD  
 in Kas of the 21dma USD/Kas price.
   
+Nov 09, 2025:  1 $China = 1 CNY/USD 200dma = 0.1394 USD/ 0.05330 kas 21dma = 2.6154 $Kas (or 0.1308 USD current)  
 Okt 14, 2025:  1 $China = 1 CNY/USD 200dma = 0.1392 USD/ 0.07146 kas 21dma = 1.9479 $Kas (or 0.1182 USD current)    
 Sep 25, 2025:  1 $China = 1 CNY/USD 200dma = 0.1390 USD/ 0.08228 kas 21dma = 1.6893 $Kas (or 0.1291 USD current)  
 Sep 17, 2025:  1 $China = 1 CNY/USD 200dma = 0.1389 USD/ 0.08521 kas 21dma = 1.6300 $Kas (or 0.1407 USD current)  
