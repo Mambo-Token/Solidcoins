@@ -2,6 +2,7 @@
 
 Current reference sell price:   
 
+1$ FRANC = 1.11CHF / 0.8016 USD 21d ma / 0.06870 Kas 90d ma = 20.15 Kas  (November 9, 2025)  
 1$ FRANC = 1.10CHF / 0.7989 USD 21d ma / 0.08143 Kas 90d ma = 16,90 Kas  (Oktober 14, 2025)   
 1$ FRANC = 1.09CHF / 0.7962 USD 21d ma / 0.08648 Kas 90d ma = 15,83 Kas  (September 25, 2025)   
 1$ FRANC = 1.09CHF / 0.8044 USD 21d ma / 0.08920 Kas 90d ma = 15,19 Kas  (August 31, 2025)   
