@@ -2,7 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/Rock-Logo.png" width="340" height="340">
 
-## The $Rock token is a native OG KRC-20 Memecoin on Kaspa Kasplex protocol.
+### $Rock L2 EVM Ca:0x71fCCC12da7417B9C74AEF789C40182569d18B5f   
+## The $Rock token is a native OG KRC-20 Memecoin on Kaspa Kasplex protocol.  
 $Rock was deployed at minute 3 of opening of the KRC-20 world:  
 2024-09-15 14:03:13   
 
