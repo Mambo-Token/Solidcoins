@@ -3,6 +3,13 @@
 # $Gold: - the most prestige Solidcoin  
 
 ## The first real digital $GOLD: 
+### Layer 2 EVM Ca: 0xcfdCec0827399Fe8FeC014d9399f2c327e6e2399  
+(only this one is the real one! on EVM).  
+$Gold has pools on:   
+👉 [KSPR DEX:](https://app.kspr.exchange?ref=Mambo)  
+Gold-Xmas  coming: Gold-Kas, Gold-Rock  
+👉 app.Kaspafinance.io  
+Gold-Xmas  
    
 $Gold's intial price was about 1/1000 of 1 ounce of Gold at anticipated 2800 USD at 0.168 Kas (September 15, 2024).  
 2800USD/1000/0.168 Kas = 16.67 Kas / $Gold  
