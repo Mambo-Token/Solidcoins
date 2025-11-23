@@ -7,7 +7,7 @@
 (only this one is the real one! on EVM).  
 $Gold has pools on:   
 👉 [KSPR DEX:](https://app.kspr.exchange?ref=Mambo)  
-Gold-Xmas  coming: Gold-Kas, Gold-Rock  
+Gold-Xmas, Gold-Kas, Gold-Rock  
 👉 app.Kaspafinance.io  
 Gold-Xmas  
    
@@ -29,8 +29,8 @@ Ideally, there should be more tokens in circulation through sales then by mintin
 It is used for liquidity pools and to support the price by bying it up, if it's dumped.  
 
 **We strongly reccomend NOT to MINT $Gold**   
-but to buy $Gold on Dex's (coming)   
-$Gold will soon be on https://kspr.Exchange dex in pool with $Cafe.  
+but to buy $Gold on Dex's.    
+$Gold will is on [KSPR DEX:](https://app.kspr.exchange?ref=Mambo) dex in pool with $Cafe.  
 You may get the best fixed price and buy it with Kas on Marketplaces:  
 https://Kaspa.com  
 KSPR: https://t.me/kspr_home_bot?start=PS8u4w  
