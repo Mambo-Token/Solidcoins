@@ -3,9 +3,10 @@
 First of all, we are running since 2021 a proof of concept project with our soldicoins, how easy it is, to stabilize the price of a token.  
 After this years, we have proofed, that it is even with micro funds possible, to hold a coin in a price range.  
 Most useful tool for this is a DEX or swap with limit buy orders functionality.
-We run a small fixed rates exchange and had solidcoins an a AMM/limit orders mixed Dex in 2021-2023. As this chain back then fell behind the top tech, we finally found Kaspa.  
-We wait for Dex'es with funitonalities of limit orders, where we best manage the solidcoins.  
-And we plan in future to make a almost completely dao  Exchanges. For this we nee help of coders with dedication to decentralization.  
+We ran a small fixed rates exchange and had solidcoins an a AMM/limit orders mixed Dex in 2021-2023. As this chain back then fell behind the top tech, we finally found Kaspa.  
+We wait for Dex'es with funcitonalities of limit orders, where we best manage the solidcoins.  
+In future we plan to make the solidcoins run with DAO  Exchanges and smart contract bots.  
+For this we need help of coders with dedication to decentralization.  
 ----  
 It should be widely aknowledge that it's not complicated to may reliable cryptocurrencies. Only evil powers make it complicated.  
 Money and currency is a matter of trust.  It falls in value, when trust in it falls.  
@@ -24,9 +25,9 @@ Meanwhile read more about them on the website:
 https://mambo.li/solidcoins/  
 ....  
 
-Solidcoins deployed on Kaspa KRC-20:
+Solidcoins deployed on Kaspa KRC-20  
 
-## $Gold: the most prestige Solidcoin:  
+## $Gold: the most prestige Solidcoin:   
 
 The first real **digital $GOLD**:  
 
