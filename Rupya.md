@@ -1,17 +1,35 @@
 <img src="https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/rupyalogo.png" width="340" height="340">   
-Coming soon:  
-# $RUPYA solidcoin on Kaspa.
+
+# $RUPYA solidcoin on Kaspa.  
 Kaspa = silver in Aramaic.  
 Rupya = silver / silvercoin in Sanskrit/ Hindi.  
+
 ### $Rupya is the Kaspa KRC-20 Coin orientated on the INR (Indian Rupee), but not pegged on it.
 
 Giving the people of India and surrounding a decentralized asset for instant payments.  
 The sales price will be orientated on the 21 day ma of USD and KAS of INR.  
-As we prepare this whitepaper and the launch on Kaspa L1 Marketplace and L2 DEX, read the solidcoin and $Franc and $Cafe whitepapers 
+$RUPIA can be bought on Kaspa L1 Marketplace and L2 DEXes.  
+Read the solidcoin and $Franc and $Cafe whitepapers  
 to learn more about the solidcoin approach.  
 Solidcoins are stabilized memecoins.  
 
-Historical background of the name Rupya (Rupee):  
+### Price:  
+initial price and current prices will be updated here.  
+
+## Buy $RUPYA here:  
+L1 marketplaces. Limit orders. Buy with $Kas.  
+[https://Kaspa.com](https://kaspa.com/tokens/marketplace/token/WHALES)   
+On L2 DEXes:  
+[KSPR.Exchange](https://kspr.Exchange)   
+We plan pools with $Kss and othercSlidcoins like $Cash, $Franc, $China.  
+
+## The Logo of $Rupya  
+The Logo contains the colors of the Indian flag.  
+The letter is the flipped sign for the INR (Indian Rupee) ₹.  '
+That it is flipped indicates that it is running on Kaspa with the flipped K,   
+the best cryptocurrency technology to run decentralized currencies.  
+
+### Historical background of the name Rupya (Rupee):  
 
 The Indian Rupee (₹) gets its name from the Sanskrit word "rūpya" (रूप्य), which means "wrought silver" or "something shaped" (from rūpa = form or shape).
 Historical Origin:The term was first used for silver coins introduced by the ancient Indian ruler Sher Shah Suri in the 16th century (1540–1545).
