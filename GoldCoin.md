@@ -10,6 +10,9 @@ $Gold has pools on:
 Gold-Xmas, Gold-Kas, Gold-Rock  
 👉 app.Kaspafinance.io  
 Gold-Xmas  
+
+## Staking $Gold. 
+On [KSPR DEX:](https://app.kspr.exchange?ref=Mambo) you may find high field $Gold stakibg opportunistisch.  
    
 $Gold's intial price was about 1/1000 of 1 ounce of Gold at anticipated 2800 USD at 0.168 Kas (September 15, 2024).  
 2800USD/1000/0.168 Kas = 16.67 Kas / $Gold  
@@ -69,7 +72,7 @@ your shop can be listed here if you accept $Gold
 ## Realistic price expectations of $Gold
 $Gold is capped at 16,67 Kas (Kaspa). it can easily go lower, if people, specially those who minted it, want to liquidate it. And since the Gold circulating from minting does not contribute to support the price.  
 If demand is enough high, Gold maybe about 16,67. With lower demand, it may fall below. We put supportive buy orders on Dex's from the treasury.  
-You cannot expect $Gold to go above 16,67 Kas long term. But you an expect $Gold to be a good place to store value and an ideal and beatifull way to pay. The first real digita Gold.  
+You cannot expect $Gold to go above 16,67 Kas long term. But you can expect $Gold to be a good place to store value and an ideal and beatifull way to pay. The first real digital Gold.  
 
 ## Outlook
 Once we have smart contract on L2's on Kaspa, we plan to fully automatize with smart contract most of the selling and buying, making it completely decentralized. But for this we nee support of the idea and funds, best to buy into $Gold if you like the idea.
