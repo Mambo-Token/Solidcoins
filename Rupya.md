@@ -1,4 +1,5 @@
-Coming soon: 
+<img src="https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/rupyalogo.png" width="340" height="340">   
+Coming soon:  
 # $RUPYA solidcoin on Kaspa.
 Kaspa = silver in Aramaic.  
 Rupya = silver / silvercoin in Sanskrit/ Hindi.  
