@@ -2,7 +2,7 @@ Coming soon:
 # $RUPYA solidcoin on Kaspa.
 Kaspa = silver in Aramaic.  
 Rupya = silver / silvercoin in Sanskrit/ Hindi.  
-### $Rupya is the KRC-20 Coin orientated on the INR (Indian Rupee), but not pegged on it.
+### $Rupya is the Kaspa KRC-20 Coin orientated on the INR (Indian Rupee), but not pegged on it.
 
 Giving the people of India and surrounding a decentralized asset for instant payments.  
 The sales price will be orientated on the 21 day ma of USD and KAS of INR.  
