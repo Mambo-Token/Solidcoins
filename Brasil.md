@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Mambo-Token/Solidcoins/refs/heads/main/logos/BrasilLogo.png" width="340" height="340">   
 
-# $BRASIL is a KRC-20 Kaspa Solidcoi
+# $BRASIL is a KRC-20 Kaspa Solidcoin
 
 ## Why $Brasil?
 Brazil experienced in the last 15 years a 300% inflation towards USD.  
