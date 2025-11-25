@@ -9,10 +9,10 @@ $Gold has pools on:
 👉 [KSPR DEX:](https://app.kspr.exchange?ref=Mambo)  
 Gold-Xmas, Gold-Kas, Gold-Rock  
 👉 app.Kaspafinance.io  
-Gold-Xmas  
+Gold-Kas, Gold-Xmas  
 
 ## Staking $Gold. 
-On [KSPR DEX:](https://app.kspr.exchange?ref=Mambo) you may find high field $Gold stakibg opportunistisch.  
+On [KSPR DEX:](https://app.kspr.exchange?ref=Mambo) you may find high yield $Gold staking opportunities.  
    
 $Gold's intial price was about 1/1000 of 1 ounce of Gold at anticipated 2800 USD at 0.168 Kas (September 15, 2024).  
 2800USD/1000/0.168 Kas = 16.67 Kas / $Gold  
