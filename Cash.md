@@ -13,7 +13,7 @@ This should keep $Cash in a reliabe price range to use it for daily life payment
 
 ## Price of $CASH  
 ## Current reference sell price:  
-1CASH = 1.025 USD / 0.0533 Kas 21d ma = 19,23 Kas  (Oktober 14, 2025)   
+1CASH = 1.025 USD / 0.0533 Kas 21d ma = 19,23 Kas  (November 10, 2025)   
 1CASH = 1.02 USD / 0.07147 Kas 21d ma = 14,27 Kas  (Oktober 14, 2025)   
 1CASH = 1.01 USD / 0.08279 Kas 21d ma = 12,20 Kas  (September 25, 2025)  
 1CASH = 1.01 USD / 0.08517 Kas 21d ma = 11,85 Kas  (September 17, 2025)   
